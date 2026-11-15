@@ -1,0 +1,15 @@
+# Include only the files needed for the modpack.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/mods/
+!/config/
+!/defaultconfigs/
+!/versions/
+!/assets/
+!/libraries/
+!/resourcepacks/
+!/shaderpacks/
+!/fancymenu_data/
+!/options.txt
