@@ -1,0 +1,5 @@
+[stat_frame]
+	#Stat frames only update when their owner is within this many chunks. 0 never updates, 32 is infinite
+	# Default: 4
+	# Range: 0 ~ 32
+	update_range = 4

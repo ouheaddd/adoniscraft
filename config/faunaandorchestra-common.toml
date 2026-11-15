@@ -1,0 +1,164 @@
+#Should the mysterious character appear at the beginning?
+character_spawn = true
+#Should the book be dropped at the beginning?
+give_book = true
+#Should the Halloween pumpkins be enabled?
+halloween_hats = true
+
+#Animal spawn settings. Changes require restarting the world/server.
+#Set weight to 0 to stop an animal from spawning naturally.
+#Use add_biomes to let an animal spawn in extra biomes.
+[animal_spawns]
+
+	[animal_spawns.beaver]
+		#Spawn weight (higher = more common)
+		# Default: 12
+		# Range: 0 ~ 1000
+		weight = 12
+		#Minimum group size
+		# Default: 3
+		# Range: 1 ~ 64
+		min_count = 3
+		#Maximum group size
+		# Default: 4
+		# Range: 1 ~ 64
+		max_count = 4
+		#Extra biomes this animal can spawn in, on top of its default ones.
+		#Accepts biome ids ("minecraft:plains") and biome tags ("#minecraft:is_forest").
+		add_biomes = []
+
+	[animal_spawns.butterfly]
+		#Spawn weight (higher = more common)
+		# Default: 8
+		# Range: 0 ~ 1000
+		weight = 8
+		#Minimum group size
+		# Default: 3
+		# Range: 1 ~ 64
+		min_count = 3
+		#Maximum group size
+		# Default: 6
+		# Range: 1 ~ 64
+		max_count = 6
+		#Extra biomes this animal can spawn in, on top of its default ones.
+		#Accepts biome ids ("minecraft:plains") and biome tags ("#minecraft:is_forest").
+		add_biomes = []
+
+	[animal_spawns.emperor_penguin]
+		#Spawn weight (higher = more common)
+		# Default: 8
+		# Range: 0 ~ 1000
+		weight = 8
+		#Minimum group size
+		# Default: 2
+		# Range: 1 ~ 64
+		min_count = 2
+		#Maximum group size
+		# Default: 3
+		# Range: 1 ~ 64
+		max_count = 3
+		#Extra biomes this animal can spawn in, on top of its default ones.
+		#Accepts biome ids ("minecraft:plains") and biome tags ("#minecraft:is_forest").
+		add_biomes = []
+
+	[animal_spawns.lemur]
+		#Spawn weight (higher = more common)
+		# Default: 8
+		# Range: 0 ~ 1000
+		weight = 8
+		#Minimum group size
+		# Default: 3
+		# Range: 1 ~ 64
+		min_count = 3
+		#Maximum group size
+		# Default: 4
+		# Range: 1 ~ 64
+		max_count = 4
+		#Extra biomes this animal can spawn in, on top of its default ones.
+		#Accepts biome ids ("minecraft:plains") and biome tags ("#minecraft:is_forest").
+		add_biomes = []
+
+	[animal_spawns.macaw]
+		#Spawn weight (higher = more common)
+		# Default: 15
+		# Range: 0 ~ 1000
+		weight = 15
+		#Minimum group size
+		# Default: 4
+		# Range: 1 ~ 64
+		min_count = 4
+		#Maximum group size
+		# Default: 6
+		# Range: 1 ~ 64
+		max_count = 6
+		#Extra biomes this animal can spawn in, on top of its default ones.
+		#Accepts biome ids ("minecraft:plains") and biome tags ("#minecraft:is_forest").
+		add_biomes = []
+
+	[animal_spawns.mantis]
+		#Spawn weight (higher = more common)
+		# Default: 14
+		# Range: 0 ~ 1000
+		weight = 14
+		#Minimum group size
+		# Default: 2
+		# Range: 1 ~ 64
+		min_count = 2
+		#Maximum group size
+		# Default: 4
+		# Range: 1 ~ 64
+		max_count = 4
+		#Extra biomes this animal can spawn in, on top of its default ones.
+		#Accepts biome ids ("minecraft:plains") and biome tags ("#minecraft:is_forest").
+		add_biomes = []
+
+	[animal_spawns.quirky_frog]
+		#Spawn weight (higher = more common)
+		# Default: 20
+		# Range: 0 ~ 1000
+		weight = 20
+		#Minimum group size
+		# Default: 5
+		# Range: 1 ~ 64
+		min_count = 5
+		#Maximum group size
+		# Default: 6
+		# Range: 1 ~ 64
+		max_count = 6
+		#Extra biomes this animal can spawn in, on top of its default ones.
+		#Accepts biome ids ("minecraft:plains") and biome tags ("#minecraft:is_forest").
+		add_biomes = []
+
+	[animal_spawns.red_panda]
+		#Spawn weight (higher = more common)
+		# Default: 14
+		# Range: 0 ~ 1000
+		weight = 14
+		#Minimum group size
+		# Default: 3
+		# Range: 1 ~ 64
+		min_count = 3
+		#Maximum group size
+		# Default: 4
+		# Range: 1 ~ 64
+		max_count = 4
+		#Extra biomes this animal can spawn in, on top of its default ones.
+		#Accepts biome ids ("minecraft:plains") and biome tags ("#minecraft:is_forest").
+		add_biomes = []
+
+	[animal_spawns.sea_lion]
+		#Spawn weight (higher = more common)
+		# Default: 8
+		# Range: 0 ~ 1000
+		weight = 8
+		#Minimum group size
+		# Default: 3
+		# Range: 1 ~ 64
+		min_count = 3
+		#Maximum group size
+		# Default: 4
+		# Range: 1 ~ 64
+		max_count = 4
+		#Extra biomes this animal can spawn in, on top of its default ones.
+		#Accepts biome ids ("minecraft:plains") and biome tags ("#minecraft:is_forest").
+		add_biomes = []

@@ -1,0 +1,22 @@
+[miscellaneous]
+	#Chunks can be loaded with a chunk loader block
+	enable_chunk_loading = true
+	tnt_barrel_explosion_power = 1.0
+	#Zombies have a chance of becoming giants. Chance ranges from 0 (doesn't spawn) to 1 (normal spawn behavior)
+	giant_spawn_chance = 1.0
+	#Zombies have a chance of becoming zombie horse jockeys. Chance ranges from 0 (doesn't spawn) to 1 (normal spawn behavior)
+	zombie_horse_spawn_chance = 1.0
+	#Spirit lamps spawn light blocks around them to give extra brightness
+	enable_spirit_lamp_extra_brightness = true
+	#Withered matter has a chance to spawn wither skeletons and spread to nearby blocks
+	witheredmatterspreadspeed = 1.0
+	#Being higher in the End lowers the player's gravity
+	enable_low_end_gravity = true
+	#Affects the rate of wind sounds
+	wind_sound_chance = 1.0
+	#Affects the rate of wave sounds on beaches
+	wave_sound_chance = 1.0
+	#Affects the rate of bird chirps
+	bird_sound_chance = 1.0
+	#Affects the rate of ambient end sounds
+	end_sound_chance = 1.0

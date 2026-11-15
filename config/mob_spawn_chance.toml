@@ -1,0 +1,12 @@
+[mob_spawn_chance]
+	#Chance ranges from 0 (doesn't spawn) to 1 (normal spawn behavior)
+	firefly = 1.0
+	cursed_eye = 1.0
+	frostbitten = 1.0
+	lava_beetle = 1.0
+	spirit = 1.0
+	crystalline_mimic = 1.0
+	endermite_queen = 1.0
+	construct = 1.0
+	sculk_squid = 1.0
+	echo_soul = 1.0

@@ -1,0 +1,19 @@
+#Contraband - Server-Side Item Banning
+#Edit this file to configure which features are active.
+[enforcement]
+	#If true, banned items are destroyed when a player picks them up from the ground.
+	deleteOnPickup = true
+	#If true, a player's inventory is scanned for banned items when they log in and those items are removed.
+	deleteOnLogin = true
+	#If true, banned items cannot be obtained by crafting.
+	#Note: the crafting result is voided. Ingredients may still be consumed — this is intentional as a deterrent.
+	#For full recipe hiding, pair this with a recipe-viewer mod (JEI/REI) hidden-items config.
+	removeRecipes = true
+	#If true, banned items are stripped from all loot tables (mobs, chests, fishing, etc.).
+	modifyLoot = true
+
+[permissions]
+	#If true, /contraband commands require operator permission level 2 or higher.
+	requireOp = true
+	#If true, players are sent a chat message explaining why an item was removed.
+	notifyPlayer = true

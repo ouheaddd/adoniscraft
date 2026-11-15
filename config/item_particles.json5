@@ -1,0 +1,73 @@
+{
+  "coefficients": {
+    "dropped_item_config": {
+      "count_coefficient": 1.0,
+      "cooldown_coefficient": 1.0
+    },
+    "item_frame_config": {
+      "count_coefficient": 1.0,
+      "cooldown_coefficient": 1.0
+    },
+    "shelf_config": {
+      "count_coefficient": 1.0,
+      "cooldown_coefficient": 1.0
+    },
+    "global_config": {
+      "count_coefficient": 1.0,
+      "cooldown_coefficient": 1.0
+    },
+    "first_person_config": {
+      "count_coefficient": 1.0,
+      "cooldown_coefficient": 1.0
+    },
+    "third_person_config": {
+      "count_coefficient": 1.0,
+      "cooldown_coefficient": 1.0
+    }
+  },
+  "whitelists": {
+    "dropped_item_config": {
+      "mode": "disabled",
+      "items": ""
+    },
+    "item_frame_config": {
+      "mode": "disabled",
+      "items": ""
+    },
+    "shelf_config": {
+      "mode": "disabled",
+      "items": ""
+    },
+    "first_person_config": {
+      "mode": "disabled",
+      "items": ""
+    },
+    "third_person_config": {
+      "mode": "disabled",
+      "items": ""
+    }
+  },
+  "family_generation": {
+    "mods_mode": "blacklist",
+    "mods": "",
+    "items_mode": "blacklist",
+    "items": ""
+  },
+  "cache": {
+    "invalidate_mode": "manual_invalidate"
+  },
+  "sent_notice_message": true,
+  "main": {
+    "mod_enabled": true,
+    "debug_mode_enabled": false,
+    "nbt_debug_mode_enabled": false
+  },
+  "particle": {
+    "item_frame_spawn_enabled": true,
+    "shelf_spawn_enabled": true,
+    "particle_transparency": 1.0,
+    "first_person_spawn_enabled": true,
+    "third_person_spawn_enabled": true,
+    "dropped_item_spawn_enabled": true
+  }
+}

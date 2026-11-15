@@ -1,0 +1,22 @@
+#Maximum Transvector Interface binding distance.
+# Default: 4
+# Range: 1 ~ 64
+transvectorInterfaceDistance = 4
+#Maximum Transvector Dislocator binding distance.
+# Default: 10
+# Range: 1 ~ 64
+transvectorDislocatorDistance = 10
+#One Ender Shard per this many eligible Enderman kills on average; 0 disables drops.
+# Default: 32
+# Range: 0 ~ 65536
+endShardDropRate = 32
+#One Nether Shard per this many eligible zombified piglin kills on average; 0 disables drops.
+# Default: 16
+# Range: 0 ~ 65536
+netherShardDropRate = 16
+#Restrict the Osmotic Enchanter to Minecraft and Tinkerer enchantments.
+balancedEnchanter = true
+#Allow Energetic Nitor and KAMI leggings to leave temporary light.
+enableNitorVapor = true
+#Blocks that cannot be bound to a Transvector.
+transvectorBlacklist = ["thaumaturge:thaumatorium"]
