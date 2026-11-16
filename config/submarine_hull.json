@@ -2121,6 +2121,14 @@
     "maxWaterDepth": 54,
     "implosionChance": 0.27459225
   },
+  "amendments:forbidden_arcanus/wall_deorum_lantern": {
+    "maxWaterDepth": 54,
+    "implosionChance": 0.27459225
+  },
+  "amendments:forbidden_arcanus/wall_deorum_soul_lantern": {
+    "maxWaterDepth": 54,
+    "implosionChance": 0.27459225
+  },
   "amendments:hanging_flower_pot": {
     "maxWaterDepth": 25,
     "implosionChance": 0.6
@@ -42629,6 +42637,590 @@
     "maxWaterDepth": 68,
     "implosionChance": 0.330409
   },
+  "forbidden_arcanus:arcane_crystal_block": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.41137058
+  },
+  "forbidden_arcanus:arcane_crystal_obelisk": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "forbidden_arcanus:arcane_crystal_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "forbidden_arcanus:arcane_dragon_egg": {
+    "maxWaterDepth": 86,
+    "implosionChance": 0.2197415
+  },
+  "forbidden_arcanus:arcane_edelwood_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "forbidden_arcanus:arcane_edelwood_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "forbidden_arcanus:arcane_edelwood_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "forbidden_arcanus:arcane_polished_darkstone": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:arcane_polished_darkstone_pillar": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:arcane_polished_darkstone_slab": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:arcane_polished_darkstone_stairs": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:arcane_polished_darkstone_wall": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:aurealic_obsidian_skull": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "forbidden_arcanus:aurealic_obsidian_wall_skull": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "forbidden_arcanus:aurum_button": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5344535
+  },
+  "forbidden_arcanus:aurum_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "forbidden_arcanus:aurum_fence": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "forbidden_arcanus:aurum_fence_gate": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "forbidden_arcanus:aurum_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "forbidden_arcanus:aurum_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "forbidden_arcanus:aurum_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "forbidden_arcanus:aurum_pressure_plate": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5344535
+  },
+  "forbidden_arcanus:aurum_sapling": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "forbidden_arcanus:aurum_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "forbidden_arcanus:aurum_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "forbidden_arcanus:aurum_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "forbidden_arcanus:aurum_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "forbidden_arcanus:black_hole": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.28027755
+  },
+  "forbidden_arcanus:carved_edelwood_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "forbidden_arcanus:chiseled_arcane_polished_darkstone": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:chiseled_polished_darkstone": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:clibano_center": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:clibano_core": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:clibano_corner": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:clibano_main_part": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:clibano_side_horizontal": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:clibano_side_vertical": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:corrupted_arcane_crystal_block": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.41137058
+  },
+  "forbidden_arcanus:corrupted_arcane_crystal_obelisk": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "forbidden_arcanus:cracked_obsidian_skull": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "forbidden_arcanus:cracked_obsidian_wall_skull": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "forbidden_arcanus:cracked_polished_darkstone_bricks": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:cut_soulless_sandstone": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.50122136
+  },
+  "forbidden_arcanus:cut_soulless_sandstone_slab": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "forbidden_arcanus:darkstone": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:darkstone_pedestal": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:darkstone_slab": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:darkstone_stairs": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:darkstone_wall": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:deepslate_arcane_crystal_ore": {
+    "maxWaterDepth": 83,
+    "implosionChance": 0.23637056
+  },
+  "forbidden_arcanus:deorum_block": {
+    "maxWaterDepth": 85,
+    "implosionChance": 0.25540897
+  },
+  "forbidden_arcanus:deorum_chain": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.15540898
+  },
+  "forbidden_arcanus:deorum_door": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "forbidden_arcanus:deorum_glass": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.55876356
+  },
+  "forbidden_arcanus:deorum_glass_pane": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.55876356
+  },
+  "forbidden_arcanus:deorum_lantern": {
+    "maxWaterDepth": 54,
+    "implosionChance": 0.27459225
+  },
+  "forbidden_arcanus:deorum_soul_lantern": {
+    "maxWaterDepth": 54,
+    "implosionChance": 0.27459225
+  },
+  "forbidden_arcanus:deorum_trapdoor": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "forbidden_arcanus:desk": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "forbidden_arcanus:edelwood_branch": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "forbidden_arcanus:edelwood_button": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5344535
+  },
+  "forbidden_arcanus:edelwood_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "forbidden_arcanus:edelwood_fence": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "forbidden_arcanus:edelwood_fence_gate": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "forbidden_arcanus:edelwood_ladder": {
+    "maxWaterDepth": 21,
+    "implosionChance": 0.5463528
+  },
+  "forbidden_arcanus:edelwood_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "forbidden_arcanus:edelwood_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "forbidden_arcanus:edelwood_pressure_plate": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5344535
+  },
+  "forbidden_arcanus:edelwood_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "forbidden_arcanus:edelwood_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "forbidden_arcanus:edelwood_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "forbidden_arcanus:essence_utrem_jar": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.55876356
+  },
+  "forbidden_arcanus:eternal_obsidian_skull": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "forbidden_arcanus:eternal_obsidian_wall_skull": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "forbidden_arcanus:fading_obsidian_skull": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "forbidden_arcanus:fading_obsidian_wall_skull": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "forbidden_arcanus:forbiddenomicon": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "forbidden_arcanus:fragmented_obsidian_skull": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "forbidden_arcanus:fragmented_obsidian_wall_skull": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "forbidden_arcanus:fungyss": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "forbidden_arcanus:fungyss_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.57176787
+  },
+  "forbidden_arcanus:fungyss_button": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "forbidden_arcanus:fungyss_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "forbidden_arcanus:fungyss_fence": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "forbidden_arcanus:fungyss_fence_gate": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "forbidden_arcanus:fungyss_hyphae": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "forbidden_arcanus:fungyss_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "forbidden_arcanus:fungyss_pressure_plate": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "forbidden_arcanus:fungyss_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "forbidden_arcanus:fungyss_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "forbidden_arcanus:fungyss_stem": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.39013878
+  },
+  "forbidden_arcanus:fungyss_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "forbidden_arcanus:gilded_chiseled_polished_darkstone": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:growing_edelwood": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "forbidden_arcanus:hephaestus_forge_tier_1": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
+  "forbidden_arcanus:hephaestus_forge_tier_2": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
+  "forbidden_arcanus:hephaestus_forge_tier_3": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
+  "forbidden_arcanus:hephaestus_forge_tier_4": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
+  "forbidden_arcanus:hephaestus_forge_tier_5": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
+  "forbidden_arcanus:magical_farmland": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.52299964
+  },
+  "forbidden_arcanus:magnetized_darkstone_pedestal": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:mortar": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:nuggety_aurum_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "forbidden_arcanus:obsidian_skull": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "forbidden_arcanus:obsidian_wall_skull": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "forbidden_arcanus:obsidiansteel_block": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
+  "forbidden_arcanus:polished_darkstone": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:polished_darkstone_brick_slab": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:polished_darkstone_brick_stairs": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:polished_darkstone_brick_wall": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:polished_darkstone_bricks": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:polished_darkstone_button": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.5344535
+  },
+  "forbidden_arcanus:polished_darkstone_pressure_plate": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.5344535
+  },
+  "forbidden_arcanus:polished_darkstone_slab": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:polished_darkstone_stairs": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:polished_darkstone_wall": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:polished_soulless_sandstone": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.50122136
+  },
+  "forbidden_arcanus:polished_soulless_sandstone_slab": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "forbidden_arcanus:polished_soulless_sandstone_stairs": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.50122136
+  },
+  "forbidden_arcanus:potted_aurum_sapling": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "forbidden_arcanus:potted_fungyss": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "forbidden_arcanus:potted_growing_edelwood": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "forbidden_arcanus:potted_yellow_orchid": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "forbidden_arcanus:quantum_core": {
+    "maxWaterDepth": 138,
+    "implosionChance": 0.05
+  },
+  "forbidden_arcanus:quantum_injector": {
+    "maxWaterDepth": 138,
+    "implosionChance": 0.05
+  },
+  "forbidden_arcanus:research_desk": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "forbidden_arcanus:rune_block": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15540898
+  },
+  "forbidden_arcanus:runic_darkstone": {
+    "maxWaterDepth": 99,
+    "implosionChance": 0.1390562
+  },
+  "forbidden_arcanus:runic_deepslate": {
+    "maxWaterDepth": 83,
+    "implosionChance": 0.23637056
+  },
+  "forbidden_arcanus:runic_glass": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.55876356
+  },
+  "forbidden_arcanus:runic_glass_pane": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.55876356
+  },
+  "forbidden_arcanus:runic_stone": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "forbidden_arcanus:soulless_sand": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "forbidden_arcanus:soulless_sandstone": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.50122136
+  },
+  "forbidden_arcanus:soulless_sandstone_slab": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "forbidden_arcanus:soulless_sandstone_stairs": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.50122136
+  },
+  "forbidden_arcanus:soulless_sandstone_wall": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.50122136
+  },
+  "forbidden_arcanus:stella_arcanum": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
+  "forbidden_arcanus:stellarite_block": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
+  "forbidden_arcanus:stripped_aurum_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "forbidden_arcanus:stripped_aurum_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "forbidden_arcanus:tiled_polished_darkstone_bricks": {
+    "maxWaterDepth": 96,
+    "implosionChance": 0.15527754
+  },
+  "forbidden_arcanus:upwind": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "forbidden_arcanus:utrem_jar": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.55876356
+  },
+  "forbidden_arcanus:whirlwind": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "forbidden_arcanus:yellow_orchid": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
   "friendsandfoes:acacia_beehive": {
     "maxWaterDepth": 28,
     "implosionChance": 0.52299964
@@ -43148,6 +43740,34 @@
   "golemoverhaul:clay_golem_statue": {
     "maxWaterDepth": 24,
     "implosionChance": 0.52299964
+  },
+  "hemp_and_rush:gold_letter_a": {
+    "maxWaterDepth": 77,
+    "implosionChance": 0.30540898
+  },
+  "hemp_and_rush:gold_letter_d": {
+    "maxWaterDepth": 77,
+    "implosionChance": 0.30540898
+  },
+  "hemp_and_rush:gold_letter_e": {
+    "maxWaterDepth": 77,
+    "implosionChance": 0.30540898
+  },
+  "hemp_and_rush:gold_letter_v": {
+    "maxWaterDepth": 77,
+    "implosionChance": 0.30540898
+  },
+  "hemp_and_rush:hemp_crop": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "hemp_and_rush:hemp_crown": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "hemp_and_rush:uv_lamp": {
+    "maxWaterDepth": 53,
+    "implosionChance": 0.45640698
   },
   "hollowmarch:acacia_bookshelf": {
     "maxWaterDepth": 37,

@@ -55,7 +55,7 @@
   "particleLight": true,
   "particlePhysics": true,
   "particleLod": true,
-  "parallelParticles": true,
+  "parallelParticles": false,
   "hudCache": false,
   "guiAnimatedItems": false,
   "bidiCache": true,
