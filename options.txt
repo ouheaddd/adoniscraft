@@ -187,11 +187,11 @@ key_placebo.toggleWings:key.keyboard.keypad.8
 key_key.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
 key_key.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
 key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
+key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
+key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_key.cataclysm.ability:key.keyboard.unknown
 key_key.cataclysm.helmet_ability:key.keyboard.unknown
 key_key.cataclysm.chestplate_ability:key.keyboard.y
@@ -338,8 +338,8 @@ key_Open Backpack:key.keyboard.unknown
 key_key.cinematic_respawn.skip_cinematic:key.keyboard.space
 key_key.antos.archive_lookup:key.keyboard.w
 key_key.antos.toggle_task_tracker:key.keyboard.unknown
-key_key.inventorysorter.itemin:key.mouse.100
 key_key.inventorysorter.sort:key.mouse.middle
+key_key.inventorysorter.itemin:key.mouse.100
 key_key.inventorysorter.itemout:key.mouse.102
 key_rainbows.key.reload_rainbow_configs:key.keyboard.unknown
 key_create.keyinfo.toolmenu:key.keyboard.left.alt

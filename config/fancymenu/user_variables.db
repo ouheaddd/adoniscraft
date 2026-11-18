@@ -8,7 +8,7 @@ variable {
 
 variable {
   name = music_angle
-  value = 237.2999999999908
+  value = 176.29999999999427
   reset_on_launch = false
 }
 
@@ -38,13 +38,13 @@ variable {
 
 variable {
   name = music_play
-  value = 0
+  value = 1
   reset_on_launch = false
 }
 
 variable {
   name = music_play_plate
-  value = ▶
+  value = ||
   reset_on_launch = false
 }
 
