@@ -434,3 +434,9 @@ If the administrator already understands this security notice, disable the notic
 Control mod id whitelist mode: /csc mode whitelistid on|off
 Open config/CSC/config.toml for more detailed configuration.
 2026-11-21 14:49:51 [INFO] CSC close completely, thanks for using!
+2026-11-21 15:04:51 [INFO] CSC is loading...   Success！
+2026-11-21 15:27:05 [INFO] CSC is loading...   Success！
+2026-11-21 16:39:46 [INFO] CSC is loading...   Success！
+2026-11-21 16:54:59 [INFO] CSC is loading...   Success！
+2026-11-21 19:58:35 [INFO] CSC is loading...   Success！
+2026-11-21 20:15:55 [INFO] CSC is loading...   Success！
