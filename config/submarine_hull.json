@@ -37065,6 +37065,26 @@
     "maxWaterDepth": 28,
     "implosionChance": 0.55876356
   },
+  "creategoggles:chainmail_backtank": {
+    "maxWaterDepth": 85,
+    "implosionChance": 0.25540897
+  },
+  "creategoggles:diamond_backtank": {
+    "maxWaterDepth": 85,
+    "implosionChance": 0.25540897
+  },
+  "creategoggles:golden_backtank": {
+    "maxWaterDepth": 85,
+    "implosionChance": 0.25540897
+  },
+  "creategoggles:iron_backtank": {
+    "maxWaterDepth": 85,
+    "implosionChance": 0.25540897
+  },
+  "creategoggles:leather_backtank": {
+    "maxWaterDepth": 85,
+    "implosionChance": 0.25540897
+  },
   "createlogisticscontrol:filter_link": {
     "maxWaterDepth": 37,
     "implosionChance": 0.43337092
