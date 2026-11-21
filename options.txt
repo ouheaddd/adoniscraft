@@ -59,7 +59,7 @@ chatLineSpacing:0.0
 textBackgroundOpacity:0.5
 backgroundForChatOnly:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 overrideWidth:0
 overrideHeight:0
@@ -339,8 +339,8 @@ key_key.cinematic_respawn.skip_cinematic:key.keyboard.space
 key_key.antos.archive_lookup:key.keyboard.w
 key_key.antos.toggle_task_tracker:key.keyboard.unknown
 key_key.inventorysorter.sort:key.mouse.middle
-key_key.inventorysorter.itemin:key.mouse.100
 key_key.inventorysorter.itemout:key.mouse.102
+key_key.inventorysorter.itemin:key.mouse.100
 key_rainbows.key.reload_rainbow_configs:key.keyboard.unknown
 key_create.keyinfo.toolmenu:key.keyboard.left.alt
 key_create.keyinfo.toolbelt:key.keyboard.left.alt

@@ -322,3 +322,115 @@ Open config/CSC/config.toml for more detailed configuration.
 2026-11-17 15:27:41 [INFO] CSC is loading...   Success！
 2026-11-17 20:52:05 [INFO] CSC is loading...   Success！
 2026-11-17 21:42:20 [INFO] CSC is loading...   Success！
+2026-11-18 15:09:30 [INFO] CSC is loading...   Success！
+2026-11-18 16:18:52 [INFO] CSC is loading...   Success！
+2026-11-18 16:24:51 [INFO] CSC is loading...   Success！
+2026-11-19 10:51:39 [INFO] CSC is loading...   Success！
+2026-11-19 15:11:14 [INFO] CSC is loading...   Success！
+2026-11-19 15:13:59 [INFO]    _____  _____  _____ 
+2026-11-19 15:13:59 [INFO]   / ____|/ ____|/ ____|
+2026-11-19 15:13:59 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-11-19 15:13:59 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-11-19 15:13:59 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-11-19 15:13:59 [INFO]   \_____|_____/ \_____|
+2026-11-19 15:13:59 [INFO]                        
+2026-11-19 15:13:59 [INFO] Security notice: Mod id whitelist mode is enabled. This feature restricts printing blocks from mods outside the whitelist to reduce the risk of blueprint vulnerabilities from unknown mods.
+If the administrator already understands this security notice, disable the notice with: /csc notice whitelistid off
+Control mod id whitelist mode: /csc mode whitelistid on|off
+Open config/CSC/config.toml for more detailed configuration.
+2026-11-19 15:27:16 [INFO] CSC close completely, thanks for using!
+2026-11-19 17:21:19 [INFO] CSC is loading...   Success！
+2026-11-19 20:37:35 [INFO] CSC is loading...   Success！
+2026-11-20 10:27:08 [INFO] CSC is loading...   Success！
+2026-11-20 15:17:31 [INFO] CSC is loading...   Success！
+2026-11-21 10:38:38 [INFO] CSC is loading...   Success！
+2026-11-21 11:09:39 [INFO]    _____  _____  _____ 
+2026-11-21 11:09:39 [INFO]   / ____|/ ____|/ ____|
+2026-11-21 11:09:39 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-11-21 11:09:39 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-11-21 11:09:39 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-11-21 11:09:39 [INFO]   \_____|_____/ \_____|
+2026-11-21 11:09:39 [INFO]                        
+2026-11-21 11:09:39 [INFO] Security notice: Mod id whitelist mode is enabled. This feature restricts printing blocks from mods outside the whitelist to reduce the risk of blueprint vulnerabilities from unknown mods.
+If the administrator already understands this security notice, disable the notice with: /csc notice whitelistid off
+Control mod id whitelist mode: /csc mode whitelistid on|off
+Open config/CSC/config.toml for more detailed configuration.
+2026-11-21 11:28:29 [INFO] CSC close completely, thanks for using!
+2026-11-21 12:29:41 [INFO] CSC is loading...   Success！
+2026-11-21 12:32:22 [INFO]    _____  _____  _____ 
+2026-11-21 12:32:22 [INFO]   / ____|/ ____|/ ____|
+2026-11-21 12:32:22 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-11-21 12:32:22 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-11-21 12:32:22 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-11-21 12:32:22 [INFO]   \_____|_____/ \_____|
+2026-11-21 12:32:22 [INFO]                        
+2026-11-21 12:32:22 [INFO] Security notice: Mod id whitelist mode is enabled. This feature restricts printing blocks from mods outside the whitelist to reduce the risk of blueprint vulnerabilities from unknown mods.
+If the administrator already understands this security notice, disable the notice with: /csc notice whitelistid off
+Control mod id whitelist mode: /csc mode whitelistid on|off
+Open config/CSC/config.toml for more detailed configuration.
+2026-11-21 12:53:55 [INFO] CSC close completely, thanks for using!
+2026-11-21 12:55:41 [INFO] CSC is loading...   Success！
+2026-11-21 12:58:59 [INFO]    _____  _____  _____ 
+2026-11-21 12:58:59 [INFO]   / ____|/ ____|/ ____|
+2026-11-21 12:58:59 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-11-21 12:58:59 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-11-21 12:58:59 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-11-21 12:58:59 [INFO]   \_____|_____/ \_____|
+2026-11-21 12:58:59 [INFO]                        
+2026-11-21 12:58:59 [INFO] Security notice: Mod id whitelist mode is enabled. This feature restricts printing blocks from mods outside the whitelist to reduce the risk of blueprint vulnerabilities from unknown mods.
+If the administrator already understands this security notice, disable the notice with: /csc notice whitelistid off
+Control mod id whitelist mode: /csc mode whitelistid on|off
+Open config/CSC/config.toml for more detailed configuration.
+2026-11-21 13:06:26 [INFO] CSC close completely, thanks for using!
+2026-11-21 13:07:57 [INFO] CSC is loading...   Success！
+2026-11-21 13:10:48 [INFO]    _____  _____  _____ 
+2026-11-21 13:10:48 [INFO]   / ____|/ ____|/ ____|
+2026-11-21 13:10:48 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-11-21 13:10:48 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-11-21 13:10:48 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-11-21 13:10:48 [INFO]   \_____|_____/ \_____|
+2026-11-21 13:10:48 [INFO]                        
+2026-11-21 13:10:48 [INFO] Security notice: Mod id whitelist mode is enabled. This feature restricts printing blocks from mods outside the whitelist to reduce the risk of blueprint vulnerabilities from unknown mods.
+If the administrator already understands this security notice, disable the notice with: /csc notice whitelistid off
+Control mod id whitelist mode: /csc mode whitelistid on|off
+Open config/CSC/config.toml for more detailed configuration.
+2026-11-21 13:26:26 [INFO] CSC close completely, thanks for using!
+2026-11-21 13:29:11 [INFO] CSC is loading...   Success！
+2026-11-21 13:31:55 [INFO]    _____  _____  _____ 
+2026-11-21 13:31:55 [INFO]   / ____|/ ____|/ ____|
+2026-11-21 13:31:55 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-11-21 13:31:55 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-11-21 13:31:55 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-11-21 13:31:55 [INFO]   \_____|_____/ \_____|
+2026-11-21 13:31:55 [INFO]                        
+2026-11-21 13:31:55 [INFO] Security notice: Mod id whitelist mode is enabled. This feature restricts printing blocks from mods outside the whitelist to reduce the risk of blueprint vulnerabilities from unknown mods.
+If the administrator already understands this security notice, disable the notice with: /csc notice whitelistid off
+Control mod id whitelist mode: /csc mode whitelistid on|off
+Open config/CSC/config.toml for more detailed configuration.
+2026-11-21 13:49:17 [INFO] CSC close completely, thanks for using!
+2026-11-21 13:51:01 [INFO] CSC is loading...   Success！
+2026-11-21 13:53:39 [INFO]    _____  _____  _____ 
+2026-11-21 13:53:39 [INFO]   / ____|/ ____|/ ____|
+2026-11-21 13:53:39 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-11-21 13:53:39 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-11-21 13:53:39 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-11-21 13:53:39 [INFO]   \_____|_____/ \_____|
+2026-11-21 13:53:39 [INFO]                        
+2026-11-21 13:53:39 [INFO] Security notice: Mod id whitelist mode is enabled. This feature restricts printing blocks from mods outside the whitelist to reduce the risk of blueprint vulnerabilities from unknown mods.
+If the administrator already understands this security notice, disable the notice with: /csc notice whitelistid off
+Control mod id whitelist mode: /csc mode whitelistid on|off
+Open config/CSC/config.toml for more detailed configuration.
+2026-11-21 14:37:57 [INFO] CSC close completely, thanks for using!
+2026-11-21 14:40:05 [INFO] CSC is loading...   Success！
+2026-11-21 14:43:21 [INFO]    _____  _____  _____ 
+2026-11-21 14:43:21 [INFO]   / ____|/ ____|/ ____|
+2026-11-21 14:43:21 [INFO]  | |    | (___ | |        [CSC] Version: v2.27.47
+2026-11-21 14:43:21 [INFO]  | |     \___ \| |        Minecraft Version: 1.21.1 neoforge
+2026-11-21 14:43:21 [INFO]  | |____ ____) | |____    Problem/Feedback: Discord: https://discord.gg/rQV5JPauY7
+2026-11-21 14:43:21 [INFO]   \_____|_____/ \_____|
+2026-11-21 14:43:21 [INFO]                        
+2026-11-21 14:43:21 [INFO] Security notice: Mod id whitelist mode is enabled. This feature restricts printing blocks from mods outside the whitelist to reduce the risk of blueprint vulnerabilities from unknown mods.
+If the administrator already understands this security notice, disable the notice with: /csc notice whitelistid off
+Control mod id whitelist mode: /csc mode whitelistid on|off
+Open config/CSC/config.toml for more detailed configuration.
+2026-11-21 14:49:51 [INFO] CSC close completely, thanks for using!

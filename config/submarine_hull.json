@@ -43333,6 +43333,58 @@
     "maxWaterDepth": 85,
     "implosionChance": 0.25540897
   },
+  "gadomancyawakened:arcane_dropper": {
+    "maxWaterDepth": 77,
+    "implosionChance": 0.27459225
+  },
+  "gadomancyawakened:arcane_packager": {
+    "maxWaterDepth": 45,
+    "implosionChance": 0.3497237
+  },
+  "gadomancyawakened:aura_pylon": {
+    "maxWaterDepth": 45,
+    "implosionChance": 0.3497237
+  },
+  "gadomancyawakened:aura_pylon_peak": {
+    "maxWaterDepth": 70,
+    "implosionChance": 0.3497237
+  },
+  "gadomancyawakened:block_protector": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "gadomancyawakened:essentia_compressor": {
+    "maxWaterDepth": 83,
+    "implosionChance": 0.23905621
+  },
+  "gadomancyawakened:infusion_claw": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "gadomancyawakened:knowledge_book": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "gadomancyawakened:node_manipulator": {
+    "maxWaterDepth": 83,
+    "implosionChance": 0.23905621
+  },
+  "gadomancyawakened:portal_focus": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "gadomancyawakened:randomization_focus": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "gadomancyawakened:remote_jar": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.55876356
+  },
+  "gadomancyawakened:sticky_jar": {
+    "maxWaterDepth": 28,
+    "implosionChance": 0.55876356
+  },
   "gardens_of_the_dead:blightwart_block": {
     "maxWaterDepth": 29,
     "implosionChance": 0.4806853
@@ -43764,6 +43816,22 @@
   "hemp_and_rush:hemp_crown": {
     "maxWaterDepth": 15,
     "implosionChance": 0.6
+  },
+  "hemp_and_rush:iron_letter_a": {
+    "maxWaterDepth": 77,
+    "implosionChance": 0.30540898
+  },
+  "hemp_and_rush:iron_letter_d": {
+    "maxWaterDepth": 77,
+    "implosionChance": 0.30540898
+  },
+  "hemp_and_rush:iron_letter_e": {
+    "maxWaterDepth": 77,
+    "implosionChance": 0.30540898
+  },
+  "hemp_and_rush:iron_letter_v": {
+    "maxWaterDepth": 77,
+    "implosionChance": 0.30540898
   },
   "hemp_and_rush:uv_lamp": {
     "maxWaterDepth": 53,
@@ -96940,6 +97008,142 @@
   "thaumaturge:warded_glass": {
     "maxWaterDepth": 28,
     "implosionChance": 0.55876356
+  },
+  "thaumictinkerer:aer_imbued_fire": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "thaumictinkerer:aqua_imbued_fire": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "thaumictinkerer:bedrock_portal": {
+    "maxWaterDepth": 275,
+    "implosionChance": 0.05
+  },
+  "thaumictinkerer:chiseled_dark_quartz_block": {
+    "maxWaterDepth": 70,
+    "implosionChance": 0.3202105
+  },
+  "thaumictinkerer:corporeal_attractor": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.44568527
+  },
+  "thaumictinkerer:dark_quartz_block": {
+    "maxWaterDepth": 70,
+    "implosionChance": 0.3202105
+  },
+  "thaumictinkerer:dark_quartz_pillar": {
+    "maxWaterDepth": 70,
+    "implosionChance": 0.3202105
+  },
+  "thaumictinkerer:dark_quartz_slab": {
+    "maxWaterDepth": 70,
+    "implosionChance": 0.3202105
+  },
+  "thaumictinkerer:dark_quartz_stairs": {
+    "maxWaterDepth": 70,
+    "implosionChance": 0.3202105
+  },
+  "thaumictinkerer:dynamism_tablet": {
+    "maxWaterDepth": 117,
+    "implosionChance": 0.05681744
+  },
+  "thaumictinkerer:essentia_funnel": {
+    "maxWaterDepth": 84,
+    "implosionChance": 0.23027754
+  },
+  "thaumictinkerer:ethereal_platform": {
+    "maxWaterDepth": 48,
+    "implosionChance": 0.32082406
+  },
+  "thaumictinkerer:forcefield": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "thaumictinkerer:gaseous_light": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "thaumictinkerer:gaseous_shadow": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "thaumictinkerer:ignis_imbued_fire": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "thaumictinkerer:infused_farmland": {
+    "maxWaterDepth": 24,
+    "implosionChance": 0.52299964
+  },
+  "thaumictinkerer:infused_grain_crop": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "thaumictinkerer:kinetic_attractor": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.44568527
+  },
+  "thaumictinkerer:levitational_locomotive": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "thaumictinkerer:levitational_locomotive_relay": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "thaumictinkerer:necromancy_tablet": {
+    "maxWaterDepth": 117,
+    "implosionChance": 0.05681744
+  },
+  "thaumictinkerer:nitor_gas": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "thaumictinkerer:ordo_imbued_fire": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "thaumictinkerer:osmotic_enchanter": {
+    "maxWaterDepth": 187,
+    "implosionChance": 0.05
+  },
+  "thaumictinkerer:perditio_imbued_fire": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "thaumictinkerer:terra_imbued_fire": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "thaumictinkerer:thaumic_restorer": {
+    "maxWaterDepth": 103,
+    "implosionChance": 0.11021047
+  },
+  "thaumictinkerer:transvector_dislocator": {
+    "maxWaterDepth": 87,
+    "implosionChance": 0.21021047
+  },
+  "thaumictinkerer:transvector_interface": {
+    "maxWaterDepth": 87,
+    "implosionChance": 0.21021047
+  },
+  "thaumictinkerer:travel_slab": {
+    "maxWaterDepth": 70,
+    "implosionChance": 0.3202105
+  },
+  "thaumictinkerer:travel_stairs": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.3747237
+  },
+  "thaumictinkerer:ward_slab": {
+    "maxWaterDepth": 70,
+    "implosionChance": 0.3202105
+  },
+  "thaumictinkerer:warp_gate": {
+    "maxWaterDepth": 187,
+    "implosionChance": 0.05
   },
   "the_beyond:amphora": {
     "maxWaterDepth": 47,

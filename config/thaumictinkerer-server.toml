@@ -1,0 +1,34 @@
+#Legacy Bedrock dimension id; 0 disables portal access. Modern key: thaumictinkerer:bedrock.
+# Default: -19
+# Range: > -2147483648
+bedrockDimensionID = -19
+#Vertical ore clusters per chunk in Bedrock dimension (200 vein attempts per cluster).
+# Default: 4
+# Range: > 0
+bedrockOreDensity = 4
+#Original OreDictionary names excluded from Bedrock generation.
+bedrockOreBlacklist = ["oreFirestone"]
+
+	[general.kami]
+		forceenabled = true
+
+	[general.imbuedFire]
+		enabled = true
+
+		[general.imbuedFire.cake]
+			enabled = true
+
+		[general.shareTome.survival]
+			enabled = true
+
+	[general.cropsAllowBonemeal]
+		enabled = false
+
+	[general.modFlight]
+		enabled = true
+
+		[general.placementMirror.blocks]
+			show = true
+
+	[general.tooltipIndicators]
+		enabled = true
