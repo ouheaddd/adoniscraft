@@ -1,6 +1,22 @@
 {
   "_README": "Per-block hull strength. Edit maxWaterDepth (int) and implosionChance (0..1). Keys starting with _ are ignored.",
   "_version": 3,
+  "advancednetherite:netherite_diamond_block": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
+  "advancednetherite:netherite_emerald_block": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
+  "advancednetherite:netherite_gold_block": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
+  "advancednetherite:netherite_iron_block": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
   "advancementframes:advancement_frame": {
     "maxWaterDepth": 23,
     "implosionChance": 0.56518567
@@ -452,6 +468,666 @@
   "aeroworks:stepper_servo": {
     "maxWaterDepth": 85,
     "implosionChance": 0.25540897
+  },
+  "aether:aerogel": {
+    "maxWaterDepth": 160,
+    "implosionChance": 0.05
+  },
+  "aether:aerogel_slab": {
+    "maxWaterDepth": 160,
+    "implosionChance": 0.05
+  },
+  "aether:aerogel_stairs": {
+    "maxWaterDepth": 160,
+    "implosionChance": 0.05
+  },
+  "aether:aerogel_wall": {
+    "maxWaterDepth": 160,
+    "implosionChance": 0.05
+  },
+  "aether:aether_dirt": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "aether:aether_dirt_path": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "aether:aether_farmland": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "aether:aether_grass_block": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "aether:aether_portal": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.6
+  },
+  "aether:altar": {
+    "maxWaterDepth": 65,
+    "implosionChance": 0.3497237
+  },
+  "aether:ambrosium_block": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "aether:ambrosium_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "aether:ambrosium_torch": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "aether:ambrosium_wall_torch": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "aether:angelic_slab": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.38040897
+  },
+  "aether:angelic_stairs": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.38040897
+  },
+  "aether:angelic_stone": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.38040897
+  },
+  "aether:angelic_wall": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.38040897
+  },
+  "aether:berry_bush": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "aether:berry_bush_stem": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "aether:blue_aercloud": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.55876356
+  },
+  "aether:boss_doorway_angelic_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "aether:boss_doorway_carved_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "aether:boss_doorway_hellfire_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "aether:boss_doorway_light_angelic_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "aether:boss_doorway_light_hellfire_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "aether:boss_doorway_sentry_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "aether:carved_slab": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.38040897
+  },
+  "aether:carved_stairs": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.38040897
+  },
+  "aether:carved_stone": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.38040897
+  },
+  "aether:carved_wall": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.38040897
+  },
+  "aether:chest_mimic": {
+    "maxWaterDepth": 45,
+    "implosionChance": 0.3497237
+  },
+  "aether:cold_aercloud": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.55876356
+  },
+  "aether:crystal_fruit_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "aether:crystal_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "aether:decorated_holiday_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "aether:enchanted_aether_grass_block": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "aether:enchanted_gravitite": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "aether:freezer": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "aether:frosted_ice": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.5344535
+  },
+  "aether:golden_aercloud": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.55876356
+  },
+  "aether:golden_oak_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "aether:golden_oak_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "aether:golden_oak_sapling": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "aether:golden_oak_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "aether:gravitite_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "aether:hellfire_slab": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.38040897
+  },
+  "aether:hellfire_stairs": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.38040897
+  },
+  "aether:hellfire_stone": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.38040897
+  },
+  "aether:hellfire_wall": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.38040897
+  },
+  "aether:holiday_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "aether:holystone": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.5344535
+  },
+  "aether:holystone_brick_slab": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "aether:holystone_brick_stairs": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "aether:holystone_brick_wall": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "aether:holystone_bricks": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "aether:holystone_button": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.5344535
+  },
+  "aether:holystone_pressure_plate": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.5344535
+  },
+  "aether:holystone_slab": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.38040897
+  },
+  "aether:holystone_stairs": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.5344535
+  },
+  "aether:holystone_wall": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.5344535
+  },
+  "aether:icestone": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.5344535
+  },
+  "aether:icestone_slab": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.38040897
+  },
+  "aether:icestone_stairs": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.5344535
+  },
+  "aether:icestone_wall": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.5344535
+  },
+  "aether:incubator": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "aether:light_angelic_stone": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.38040897
+  },
+  "aether:light_hellfire_stone": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.38040897
+  },
+  "aether:locked_angelic_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "aether:locked_carved_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "aether:locked_hellfire_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "aether:locked_light_angelic_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "aether:locked_light_hellfire_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "aether:locked_sentry_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "aether:mossy_holystone": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.5344535
+  },
+  "aether:mossy_holystone_slab": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.38040897
+  },
+  "aether:mossy_holystone_stairs": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.5344535
+  },
+  "aether:mossy_holystone_wall": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.5344535
+  },
+  "aether:pillar": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.5344535
+  },
+  "aether:pillar_top": {
+    "maxWaterDepth": 40,
+    "implosionChance": 0.5344535
+  },
+  "aether:potted_berry_bush": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "aether:potted_berry_bush_stem": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "aether:potted_golden_oak_sapling": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "aether:potted_purple_flower": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "aether:potted_skyroot_sapling": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "aether:potted_white_flower": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "aether:present": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.585469
+  },
+  "aether:purple_flower": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "aether:quicksoil": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "aether:quicksoil_glass": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.57176787
+  },
+  "aether:quicksoil_glass_pane": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.57176787
+  },
+  "aether:sentry_stone": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.38040897
+  },
+  "aether:skyroot_bed": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.57176787
+  },
+  "aether:skyroot_bookshelf": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.43337092
+  },
+  "aether:skyroot_button": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5344535
+  },
+  "aether:skyroot_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "aether:skyroot_fence": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "aether:skyroot_fence_gate": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "aether:skyroot_hanging_sign": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "aether:skyroot_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "aether:skyroot_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "aether:skyroot_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "aether:skyroot_pressure_plate": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5344535
+  },
+  "aether:skyroot_sapling": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "aether:skyroot_sign": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "aether:skyroot_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "aether:skyroot_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "aether:skyroot_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "aether:skyroot_wall_hanging_sign": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "aether:skyroot_wall_sign": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "aether:skyroot_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "aether:stripped_skyroot_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "aether:stripped_skyroot_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "aether:sun_altar": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "aether:trapped_angelic_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "aether:trapped_carved_stone": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.38040897
+  },
+  "aether:trapped_hellfire_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "aether:trapped_light_angelic_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "aether:trapped_light_hellfire_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "aether:trapped_sentry_stone": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.38040897
+  },
+  "aether:treasure_chest": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "aether:treasure_doorway_angelic_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "aether:treasure_doorway_carved_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "aether:treasure_doorway_hellfire_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "aether:treasure_doorway_light_angelic_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "aether:treasure_doorway_light_hellfire_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "aether:treasure_doorway_sentry_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "aether:unstable_obsidian": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
+  "aether:white_flower": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "aether:zanite_block": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "aether:zanite_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "aether_enhanced_extinguishing:extinguished_lantern": {
+    "maxWaterDepth": 54,
+    "implosionChance": 0.27459225
+  },
+  "aether_enhanced_extinguishing:extinguished_torch": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "aether_enhanced_extinguishing:extinguished_wall_torch": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "aether_ores:holystone_coal_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "aether_ores:holystone_copper_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "aether_ores:holystone_diamond_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "aether_ores:holystone_emerald_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "aether_ores:holystone_gold_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "aether_ores:holystone_iron_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "aether_ores:holystone_lapis_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "aether_ores:holystone_redstone_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "aether_overworld_ores:holystone_coal_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "aether_overworld_ores:holystone_copper_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "aether_overworld_ores:holystone_diamond_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "aether_overworld_ores:holystone_emerald_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "aether_overworld_ores:holystone_gold_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "aether_overworld_ores:holystone_iron_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "aether_overworld_ores:holystone_lapis_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "aether_overworld_ores:holystone_lead_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "aether_overworld_ores:holystone_nickel_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "aether_overworld_ores:holystone_redstone_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "aether_overworld_ores:holystone_silver_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "aether_overworld_ores:holystone_sulfur_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "aether_overworld_ores:holystone_tin_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "aether_overworld_ores:holystone_uranium_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "aether_overworld_ores:holystone_zinc_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "aether_spellbooks:angelic_vault": {
+    "maxWaterDepth": 196,
+    "implosionChance": 0.05
+  },
+  "aether_spellbooks:carved_vault": {
+    "maxWaterDepth": 196,
+    "implosionChance": 0.05
+  },
+  "aether_spellbooks:hellfire_vault": {
+    "maxWaterDepth": 196,
+    "implosionChance": 0.05
+  },
+  "aether_spellbooks:temporary_blue_aercloud": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "aether_spellbooks:temporary_cold_aercloud": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "aether_spellbooks:temporary_golden_aercloud": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "aether_treasure_reforging:pyral_block": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
+  },
+  "aether_treasure_reforging:valkyrum_block": {
+    "maxWaterDepth": 101,
+    "implosionChance": 0.15540898
   },
   "alexscaves:abyssal_altar": {
     "maxWaterDepth": 83,
@@ -2105,6 +2781,10 @@
     "maxWaterDepth": 23,
     "implosionChance": 0.5344535
   },
+  "amendments:deep_aether/wall_skyjade_lantern": {
+    "maxWaterDepth": 54,
+    "implosionChance": 0.27459225
+  },
   "amendments:directional_cake": {
     "maxWaterDepth": 23,
     "implosionChance": 0.5344535
@@ -2116,6 +2796,10 @@
   "amendments:dye_cauldron": {
     "maxWaterDepth": 59,
     "implosionChance": 0.39013878
+  },
+  "amendments:ec_ad/wall_amber_lamp": {
+    "maxWaterDepth": 54,
+    "implosionChance": 0.27459225
   },
   "amendments:fangs_n_claws/wall_vile_lantern": {
     "maxWaterDepth": 54,
@@ -38053,6 +38737,1210 @@
     "maxWaterDepth": 45,
     "implosionChance": 0.3497237
   },
+  "deep_aether:aercloud_grass_block": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "deep_aether:aercloud_root_carpet": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.585469
+  },
+  "deep_aether:aercloud_roots": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "deep_aether:aerglow_blossom_block": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:aerlavender": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:aersmog": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.55876356
+  },
+  "deep_aether:aerwhale_totem": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "deep_aether:aether_cattails": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:aether_coarse_dirt": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "deep_aether:aether_moss_block": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.585469
+  },
+  "deep_aether:aether_moss_carpet": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.585469
+  },
+  "deep_aether:aether_mud": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "deep_aether:aether_mud_bricks": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.38637057
+  },
+  "deep_aether:aether_mud_bricks_slab": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.38637057
+  },
+  "deep_aether:aether_mud_bricks_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "deep_aether:aether_mud_bricks_wall": {
+    "maxWaterDepth": 50,
+    "implosionChance": 0.30540898
+  },
+  "deep_aether:ambrosium_tiki_torch": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "deep_aether:aseterite": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "deep_aether:aseterite_bricks": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "deep_aether:aseterite_bricks_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "deep_aether:aseterite_bricks_stairs": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "deep_aether:aseterite_bricks_wall": {
+    "maxWaterDepth": 94,
+    "implosionChance": 0.17082405
+  },
+  "deep_aether:aseterite_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "deep_aether:aseterite_stairs": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "deep_aether:aseterite_wall": {
+    "maxWaterDepth": 94,
+    "implosionChance": 0.17082405
+  },
+  "deep_aether:attached_squash_stem": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.6
+  },
+  "deep_aether:big_holystone_bricks": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:big_holystone_bricks_slab": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:big_holystone_bricks_stairs": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:big_holystone_bricks_wall": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:blightmoss_holystone_brick_slab": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:blightmoss_holystone_brick_stairs": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:blightmoss_holystone_brick_wall": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:blightmoss_holystone_bricks": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:blightmoss_holystone_tile_slab": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:blightmoss_holystone_tile_stairs": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:blightmoss_holystone_tile_wall": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:blightmoss_holystone_tiles": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:blue_aercloud_mushroom_block": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.55876356
+  },
+  "deep_aether:blue_aercloud_mushrooms": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:blue_roseroot_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "deep_aether:blue_roseroot_sapling": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:blue_squash": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "deep_aether:boss_doorway_light_nimbus_pillar": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "deep_aether:boss_doorway_light_nimbus_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "deep_aether:boss_doorway_nimbus_pillar": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "deep_aether:boss_doorway_nimbus_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "deep_aether:carved_blue_squash": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "deep_aether:carved_green_squash": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "deep_aether:carved_purple_squash": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "deep_aether:chiseled_holystone": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:chromatic_aercloud": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.55876356
+  },
+  "deep_aether:clorite": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "deep_aether:clorite_pillar": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "deep_aether:clorite_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "deep_aether:clorite_stairs": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "deep_aether:clorite_wall": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "deep_aether:cloudbloom_carpet": {
+    "maxWaterDepth": 17,
+    "implosionChance": 0.585469
+  },
+  "deep_aether:cobbled_aseterite": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "deep_aether:cobbled_aseterite_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "deep_aether:cobbled_aseterite_stairs": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "deep_aether:cobbled_aseterite_wall": {
+    "maxWaterDepth": 94,
+    "implosionChance": 0.17082405
+  },
+  "deep_aether:combiner": {
+    "maxWaterDepth": 65,
+    "implosionChance": 0.3497237
+  },
+  "deep_aether:conberry_button": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5344535
+  },
+  "deep_aether:conberry_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "deep_aether:conberry_fence": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "deep_aether:conberry_fence_gate": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "deep_aether:conberry_hanging_sign": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "deep_aether:conberry_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "deep_aether:conberry_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:conberry_log_wall": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:conberry_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "deep_aether:conberry_pressure_plate": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5344535
+  },
+  "deep_aether:conberry_sapling": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:conberry_sign": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "deep_aether:conberry_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "deep_aether:conberry_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "deep_aether:conberry_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "deep_aether:conberry_wall": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:conberry_wall_hanging_sign": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "deep_aether:conberry_wall_sign": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "deep_aether:conberry_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:cruderoot_button": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5344535
+  },
+  "deep_aether:cruderoot_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "deep_aether:cruderoot_fence": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "deep_aether:cruderoot_fence_gate": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "deep_aether:cruderoot_hanging_sign": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "deep_aether:cruderoot_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "deep_aether:cruderoot_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:cruderoot_log_wall": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:cruderoot_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "deep_aether:cruderoot_pressure_plate": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5344535
+  },
+  "deep_aether:cruderoot_sapling": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:cruderoot_sign": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "deep_aether:cruderoot_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "deep_aether:cruderoot_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "deep_aether:cruderoot_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "deep_aether:cruderoot_wall": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:cruderoot_wall_hanging_sign": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "deep_aether:cruderoot_wall_sign": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "deep_aether:cruderoot_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:echaisy": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:enchanted_blossom": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:feather_grass": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:flowering_blue_roseroot_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "deep_aether:flowering_roseroot_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "deep_aether:gilded_holystone_brick_slab": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:gilded_holystone_brick_stairs": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:gilded_holystone_brick_wall": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:gilded_holystone_bricks": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:gilded_holystone_tile_slab": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:gilded_holystone_tile_stairs": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:gilded_holystone_tile_wall": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:gilded_holystone_tiles": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:glowing_spores": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:glowing_vine": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "deep_aether:golden_aspess": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:golden_flower": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:golden_heights_dirt_path": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "deep_aether:golden_heights_grass_block": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "deep_aether:golden_vines": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:golden_vines_plant": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:green_squash": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "deep_aether:highstone": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "deep_aether:holystone_pillar": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:holystone_pillar_down": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:holystone_pillar_up": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:holystone_tile_slab": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:holystone_tile_stairs": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:holystone_tile_wall": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:holystone_tiles": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31021047
+  },
+  "deep_aether:iaspove": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:light_nimbus_pillar": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.38040897
+  },
+  "deep_aether:light_nimbus_stone": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.38040897
+  },
+  "deep_aether:lightcap_mushroom_block": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.57176787
+  },
+  "deep_aether:lightcap_mushrooms": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:locked_light_nimbus_pillar": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "deep_aether:locked_light_nimbus_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "deep_aether:locked_nimbus_pillar": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "deep_aether:locked_nimbus_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "deep_aether:locked_skyroot_planks": {
+    "maxWaterDepth": 171,
+    "implosionChance": 0.05
+  },
+  "deep_aether:medium_golden_grass": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:mini_golden_grass": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:moa_totem": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "deep_aether:mossy_holystone_brick_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "deep_aether:mossy_holystone_brick_stairs": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "deep_aether:mossy_holystone_brick_wall": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "deep_aether:mossy_holystone_bricks": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "deep_aether:mossy_holystone_tile_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "deep_aether:mossy_holystone_tile_stairs": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "deep_aether:mossy_holystone_tile_wall": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "deep_aether:mossy_holystone_tiles": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "deep_aether:muddy_yagroot_roots": {
+    "maxWaterDepth": 26,
+    "implosionChance": 0.5119372
+  },
+  "deep_aether:nimbus_pillar": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.38040897
+  },
+  "deep_aether:nimbus_slab": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.38040897
+  },
+  "deep_aether:nimbus_stairs": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.38040897
+  },
+  "deep_aether:nimbus_stone": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.38040897
+  },
+  "deep_aether:nimbus_wall": {
+    "maxWaterDepth": 60,
+    "implosionChance": 0.38040897
+  },
+  "deep_aether:packed_aether_mud": {
+    "maxWaterDepth": 38,
+    "implosionChance": 0.41137058
+  },
+  "deep_aether:pink_aercloud_mushroom_block": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.55876356
+  },
+  "deep_aether:pink_aercloud_mushrooms": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:poison": {
+    "maxWaterDepth": 400,
+    "implosionChance": 0.05
+  },
+  "deep_aether:poison_cauldron": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:polished_aseterite": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "deep_aether:polished_aseterite_slab": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "deep_aether:polished_aseterite_stairs": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "deep_aether:polished_aseterite_wall": {
+    "maxWaterDepth": 94,
+    "implosionChance": 0.17082405
+  },
+  "deep_aether:polished_clorite": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "deep_aether:polished_clorite_slab": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "deep_aether:polished_clorite_stairs": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "deep_aether:polished_clorite_wall": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "deep_aether:potted_aerlavender": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "deep_aether:potted_aether_cattails": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "deep_aether:potted_blue_roseroot_sapling": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "deep_aether:potted_conberry_sapling": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "deep_aether:potted_cruderoot_sapling": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "deep_aether:potted_echaisy": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "deep_aether:potted_enchanted_blossom": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "deep_aether:potted_golden_aspess": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "deep_aether:potted_iaspove": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "deep_aether:potted_radiant_orchid": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "deep_aether:potted_roseroot_sapling": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "deep_aether:potted_sky_tulips": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "deep_aether:potted_sunroot_sapling": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "deep_aether:potted_tall_aerlavender": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "deep_aether:potted_yagroot_sapling": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "deep_aether:purple_squash": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "deep_aether:radiant_orchid": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:rain_aercloud": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.55876356
+  },
+  "deep_aether:raw_clorite": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "deep_aether:raw_clorite_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "deep_aether:raw_clorite_stairs": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "deep_aether:raw_clorite_wall": {
+    "maxWaterDepth": 72,
+    "implosionChance": 0.30540898
+  },
+  "deep_aether:roseroot_button": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5344535
+  },
+  "deep_aether:roseroot_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "deep_aether:roseroot_fence": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "deep_aether:roseroot_fence_gate": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "deep_aether:roseroot_hanging_sign": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "deep_aether:roseroot_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "deep_aether:roseroot_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:roseroot_log_wall": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:roseroot_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "deep_aether:roseroot_pressure_plate": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5344535
+  },
+  "deep_aether:roseroot_sapling": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:roseroot_sign": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "deep_aether:roseroot_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "deep_aether:roseroot_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "deep_aether:roseroot_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "deep_aether:roseroot_wall": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:roseroot_wall_hanging_sign": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "deep_aether:roseroot_wall_sign": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "deep_aether:roseroot_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:rotten_roseroot_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:short_golden_grass": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:sky_tulips": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:skyjade_block": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "deep_aether:skyjade_chain": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.15540898
+  },
+  "deep_aether:skyjade_lantern": {
+    "maxWaterDepth": 54,
+    "implosionChance": 0.27459225
+  },
+  "deep_aether:skyjade_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "deep_aether:squall_block": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "deep_aether:squash_stem": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:sterling_aercloud": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.55876356
+  },
+  "deep_aether:stratus_block": {
+    "maxWaterDepth": 148,
+    "implosionChance": 0.05
+  },
+  "deep_aether:stripped_conberry_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:stripped_conberry_log_wall": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:stripped_conberry_wall": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:stripped_conberry_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:stripped_cruderoot_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:stripped_cruderoot_log_wall": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:stripped_cruderoot_wall": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:stripped_cruderoot_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:stripped_roseroot_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:stripped_roseroot_log_wall": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:stripped_roseroot_wall": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:stripped_roseroot_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:stripped_sunroot_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:stripped_sunroot_log_wall": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:stripped_sunroot_wall": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:stripped_sunroot_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:stripped_yagroot_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:stripped_yagroot_log_wall": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:stripped_yagroot_wall": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:stripped_yagroot_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:sunroot_button": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5344535
+  },
+  "deep_aether:sunroot_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "deep_aether:sunroot_fence": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "deep_aether:sunroot_fence_gate": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "deep_aether:sunroot_hanger": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:sunroot_hanging_sign": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "deep_aether:sunroot_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "deep_aether:sunroot_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:sunroot_log_wall": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:sunroot_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "deep_aether:sunroot_pressure_plate": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5344535
+  },
+  "deep_aether:sunroot_sapling": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:sunroot_sign": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "deep_aether:sunroot_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "deep_aether:sunroot_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "deep_aether:sunroot_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "deep_aether:sunroot_wall": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:sunroot_wall_hanging_sign": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "deep_aether:sunroot_wall_sign": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "deep_aether:sunroot_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:tall_aerlavender": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:tall_aether_cattails": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:tall_alien_plant": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:tall_feather_grass": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:tall_glowing_grass": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:tall_golden_grass": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:trapped_light_nimbus_pillar": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "deep_aether:trapped_light_nimbus_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "deep_aether:trapped_nimbus_pillar": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "deep_aether:trapped_nimbus_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "deep_aether:trapped_skyroot_planks": {
+    "maxWaterDepth": 171,
+    "implosionChance": 0.05
+  },
+  "deep_aether:treasure_doorway_light_nimbus_pillar": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "deep_aether:treasure_doorway_light_nimbus_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "deep_aether:treasure_doorway_nimbus_pillar": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "deep_aether:treasure_doorway_nimbus_stone": {
+    "maxWaterDepth": 267,
+    "implosionChance": 0.05
+  },
+  "deep_aether:virulent_quicksand": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "deep_aether:yagroot_button": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5344535
+  },
+  "deep_aether:yagroot_door": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "deep_aether:yagroot_fence": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "deep_aether:yagroot_fence_gate": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "deep_aether:yagroot_hanging_sign": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "deep_aether:yagroot_leaves": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "deep_aether:yagroot_log": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:yagroot_log_wall": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:yagroot_planks": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "deep_aether:yagroot_pressure_plate": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.5344535
+  },
+  "deep_aether:yagroot_roots": {
+    "maxWaterDepth": 26,
+    "implosionChance": 0.5119372
+  },
+  "deep_aether:yagroot_sapling": {
+    "maxWaterDepth": 15,
+    "implosionChance": 0.6
+  },
+  "deep_aether:yagroot_sign": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "deep_aether:yagroot_slab": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "deep_aether:yagroot_stairs": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
+  "deep_aether:yagroot_trapdoor": {
+    "maxWaterDepth": 49,
+    "implosionChance": 0.31137055
+  },
+  "deep_aether:yagroot_vine": {
+    "maxWaterDepth": 18,
+    "implosionChance": 0.57176787
+  },
+  "deep_aether:yagroot_wall": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:yagroot_wall_hanging_sign": {
+    "maxWaterDepth": 29,
+    "implosionChance": 0.4806853
+  },
+  "deep_aether:yagroot_wall_sign": {
+    "maxWaterDepth": 32,
+    "implosionChance": 0.4806853
+  },
+  "deep_aether:yagroot_wood": {
+    "maxWaterDepth": 41,
+    "implosionChance": 0.39013878
+  },
+  "deep_aether:zephyr_totem": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
   "deeperdarker:ancient_vase": {
     "maxWaterDepth": 50,
     "implosionChance": 0.30540898
@@ -41444,6 +43332,110 @@
   "dragonlib:dragon": {
     "maxWaterDepth": 52,
     "implosionChance": 0.43337092
+  },
+  "ec_ad:amber_brick_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "ec_ad:amber_brick_stairs": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "ec_ad:amber_brick_wall": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "ec_ad:amber_bricks": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "ec_ad:amber_chain": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.15540898
+  },
+  "ec_ad:amber_lamp": {
+    "maxWaterDepth": 54,
+    "implosionChance": 0.27459225
+  },
+  "ec_ad:amber_ore": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "ec_ad:burning_totem": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "ec_ad:carved_amber": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "ec_ad:chorusoatl_egg": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.5344535
+  },
+  "ec_ad:cracked_amber_bricks": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "ec_ad:echo_totem": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "ec_ad:fearful_totem": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "ec_ad:lush_totem": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "ec_ad:lushsaur_egg": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.5344535
+  },
+  "ec_ad:obsidiceratops_egg": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.5344535
+  },
+  "ec_ad:polished_amber": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "ec_ad:polished_amber_slab": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "ec_ad:polished_amber_stairs": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "ec_ad:polished_amber_wall": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "ec_ad:raw_amber_block": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "ec_ad:sculkraptor_egg": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.5344535
+  },
+  "ec_ad:soaring_totem": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "ec_ad:therimoss_egg": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.5344535
+  },
+  "ec_ad:tidal_totem": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
+  },
+  "ec_ad:tropic_totem": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.5344535
   },
   "elysium_api:glass_structure_void": {
     "maxWaterDepth": 267,

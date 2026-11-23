@@ -1,0 +1,301 @@
+{
+  "weapon_settings": {
+    "iron_claws": {
+      "attack_speed": -2.4,
+      "damage": 5,
+      "disable_fancy_attacks": 0,
+      "durability": 325
+    },
+    "sculk_bow": {
+      "bonus_power": 2,
+      "durability": 2048
+    },
+    "chorus_scythe": {
+      "attack_speed": -2.8,
+      "damage": 11,
+      "disable_fancy_attacks": 0,
+      "durability": 2048
+    },
+    "copper_claws": {
+      "attack_speed": -2.4,
+      "damage": 4,
+      "disable_fancy_attacks": 0,
+      "durability": 247
+    },
+    "netherite_claws": {
+      "attack_speed": -2.4,
+      "damage": 7,
+      "disable_fancy_attacks": 0,
+      "durability": 2640
+    },
+    "gold_claws": {
+      "attack_speed": -2.4,
+      "damage": 3,
+      "disable_fancy_attacks": 0,
+      "durability": 156
+    },
+    "rib_bow": {
+      "bonus_power": 1,
+      "durability": 2048
+    },
+    "lushsaur_mace": {
+      "attack_speed": -3.0,
+      "damage": 10,
+      "disable_fancy_attacks": 0,
+      "durability": 2048
+    },
+    "diamond_claws": {
+      "attack_speed": -2.4,
+      "damage": 6,
+      "disable_fancy_attacks": 0,
+      "durability": 2029
+    }
+  },
+  "entity_settings": {
+    "chorusoatl": {
+      "settings": {
+        "max_health": 140.0,
+        "knockback_resistance": 0.8,
+        "follow_range": 96.0,
+        "attack_damage": 6.0,
+        "armor": 0.0,
+        "flying_speed": 1.0,
+        "attack_knockback": 0.0,
+        "movement_speed": 0.2
+      },
+      "despawns_on_peaceful": 0,
+      "untamed_can_target_players": 1,
+      "tamed_can_target_other_players": 1
+    },
+    "coralosaur": {
+      "settings": {
+        "max_health": 224.0,
+        "knockback_resistance": 0.9,
+        "follow_range": 48.0,
+        "attack_damage": 10.0,
+        "armor": 2.0,
+        "attack_knockback": 1.5,
+        "movement_speed": 0.2
+      },
+      "despawns_on_peaceful": 0,
+      "untamed_can_target_players": 1,
+      "tamed_can_target_other_players": 1
+    },
+    "lushsaur": {
+      "settings": {
+        "max_health": 120.0,
+        "knockback_resistance": 0.9,
+        "follow_range": 48.0,
+        "attack_damage": 6.0,
+        "armor": 8.0,
+        "attack_knockback": 1.0,
+        "movement_speed": 0.2
+      },
+      "despawns_on_peaceful": 0,
+      "untamed_can_target_players": 1,
+      "tamed_can_target_other_players": 1
+    },
+    "sculkraptor": {
+      "settings": {
+        "max_health": 34.0,
+        "knockback_resistance": 0.0,
+        "follow_range": 48.0,
+        "attack_damage": 3.0,
+        "armor": 0.0,
+        "attack_knockback": 0.0,
+        "movement_speed": 0.4
+      },
+      "despawns_on_peaceful": 0,
+      "untamed_can_target_players": 1,
+      "tamed_can_target_other_players": 1
+    },
+    "sculksaur": {
+      "stats": {
+        "settings": {
+          "max_health": 500.0,
+          "knockback_resistance": 1.0,
+          "follow_range": 48.0,
+          "attack_damage": 8.0,
+          "armor": 8.0,
+          "attack_knockback": 1.5,
+          "movement_speed": 0.4
+        },
+        "despawns_on_peaceful": 1,
+        "can_target_players": 1
+      },
+      "can_spawn_due_to_wardens": 1,
+      "spawn_cooldown": 18000,
+      "is_boss": 1,
+      "min_spawn_time": 600
+    },
+    "archie": {
+      "settings": {
+        "max_health": 30.0,
+        "knockback_resistance": 0.0,
+        "follow_range": 48.0,
+        "attack_damage": 6.0,
+        "armor": 4.0,
+        "attack_knockback": 0.5,
+        "movement_speed": 0.2
+      },
+      "should_run_away_when_out_of_health": 1,
+      "should_spawn_near_players_in_dino_territory": 1
+    },
+    "therimoss": {
+      "settings": {
+        "max_health": 98.0,
+        "knockback_resistance": 0.9,
+        "follow_range": 48.0,
+        "attack_damage": 10.0,
+        "armor": 0.0,
+        "attack_knockback": 0.5,
+        "movement_speed": 0.3
+      },
+      "despawns_on_peaceful": 0,
+      "untamed_can_target_players": 1,
+      "tamed_can_target_other_players": 1
+    },
+    "obsidiceratops": {
+      "settings": {
+        "max_health": 100.0,
+        "knockback_resistance": 0.9,
+        "follow_range": 48.0,
+        "attack_damage": 8.0,
+        "armor": 16.0,
+        "attack_knockback": 1.5,
+        "movement_speed": 0.3
+      },
+      "despawns_on_peaceful": 0,
+      "untamed_can_target_players": 1,
+      "tamed_can_target_other_players": 1
+    }
+  },
+  "armor_settings": {
+    "therimoss_armor": {
+      "enchantment_value": 15,
+      "toughness": 0.0,
+      "knockback_resistance": 0.1,
+      "helmet": {
+        "defense": 2,
+        "durability": 350
+      },
+      "leggings": {
+        "defense": 2,
+        "durability": 470
+      },
+      "boots": {
+        "defense": 1,
+        "durability": 400
+      },
+      "chestplate": {
+        "defense": 6,
+        "durability": 530
+      }
+    },
+    "obsidiceratops_armor": {
+      "enchantment_value": 12,
+      "toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "helmet": {
+        "defense": 2,
+        "durability": 350
+      },
+      "leggings": {
+        "defense": 3,
+        "durability": 470
+      },
+      "boots": {
+        "defense": 2,
+        "durability": 400
+      },
+      "chestplate": {
+        "defense": 6,
+        "durability": 530
+      }
+    },
+    "coralosaur_armor": {
+      "enchantment_value": 15,
+      "toughness": 0.0,
+      "knockback_resistance": 0.1,
+      "helmet": {
+        "defense": 2,
+        "durability": 350
+      },
+      "leggings": {
+        "defense": 2,
+        "durability": 470
+      },
+      "boots": {
+        "defense": 1,
+        "durability": 400
+      },
+      "chestplate": {
+        "defense": 5,
+        "durability": 530
+      }
+    },
+    "chorusoatl_armor": {
+      "enchantment_value": 12,
+      "toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "helmet": {
+        "defense": 2,
+        "durability": 350
+      },
+      "leggings": {
+        "defense": 3,
+        "durability": 470
+      },
+      "boots": {
+        "defense": 2,
+        "durability": 400
+      },
+      "chestplate": {
+        "defense": 6,
+        "durability": 530
+      }
+    },
+    "sculksaur_armor": {
+      "enchantment_value": 15,
+      "toughness": 0.0,
+      "knockback_resistance": 0.0,
+      "helmet": {
+        "defense": 2,
+        "durability": 350
+      },
+      "leggings": {
+        "defense": 5,
+        "durability": 470
+      },
+      "boots": {
+        "defense": 2,
+        "durability": 400
+      },
+      "chestplate": {
+        "defense": 6,
+        "durability": 530
+      }
+    },
+    "lushsaur_armor": {
+      "enchantment_value": 12,
+      "toughness": 0.0,
+      "knockback_resistance": 0.1,
+      "helmet": {
+        "defense": 2,
+        "durability": 350
+      },
+      "leggings": {
+        "defense": 5,
+        "durability": 470
+      },
+      "boots": {
+        "defense": 3,
+        "durability": 400
+      },
+      "chestplate": {
+        "defense": 8,
+        "durability": 530
+      }
+    }
+  }
+}

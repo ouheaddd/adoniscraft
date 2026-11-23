@@ -15,7 +15,7 @@
   "rear_neigh": "yes",
   "horse_management": "yes",
   "horse_revival": "yes",
-  "horse_charge": "yes",
+  "horse_charge": "no",
   "horse_kick": "yes",
   "horse_defend": "yes",
   "horse_spook": "yes",

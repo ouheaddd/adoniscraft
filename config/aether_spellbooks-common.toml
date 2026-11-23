@@ -1,0 +1,78 @@
+[loot]
+	#If true, spells from this mod only drop from Aether loot (dungeons, Aether mobs) and never from Iron's Spells' generic loot.
+	aetherExclusiveSpells = true
+
+[sliderCompatibility]
+	#Allow Iron's Spells' Throw to damage the Slider when its projectile carries a valid mining tool.
+	thrownToolsDamageSlider = true
+	#Allow Spectral Hammer to target and strike the Slider while preserving dungeon restrictions.
+	spectralHammerDamageSlider = true
+	#Level-one Spectral Hammer damage to the Slider, before spell power and resistance.
+	# Default: 6.0
+	# Range: 0.0 ~ 100.0
+	hammerBaseDamage = 6.0
+	#Additional Slider damage for each Spectral Hammer level after the first.
+	# Default: 2.0
+	# Range: 0.0 ~ 100.0
+	hammerDamagePerLevel = 2.0
+
+#Dungeon rewards and rematches. Only bosses that belong to an Aether dungeon are affected; a summoned boss
+#(spawn egg, /summon, other mods) keeps the Aether's behaviour.
+[dungeons]
+	#When a dungeon boss dies, the still-locked Treasure Chest in its own room becomes a vault that each player
+	#can unlock once with the dungeon key, ejecting all rolled rewards at once. Chests that were already
+	#opened or filled by hand are left alone.
+	treasureChestsBecomeVaults = true
+	#If the boss room holds a vault, give each participant one dungeon key directly in their inventory instead
+	#of dropping a single key. Offline players and full inventories keep pending keys for automatic delivery.
+	keyPerParticipant = true
+	#When a dungeon boss is revived, clear its room's vault reward history so each player can unlock it again.
+	#Iron's Spells' original vaults are included only when modifyIronsSpellbooksVaults is also enabled.
+	resetVaultsOnRevival = true
+	#A defeated dungeon boss leaves its soul behind. Using the matching relic (Sentry Core, Valkyrie's Oath, Solar
+	#Ember) on it rebuilds the boss room and calls the boss back for a rematch.
+	guardianRevival = true
+	#Apply dungeon vault enhancements to Iron's Spells' original vaults (Bone Vault, Cinderous Vault, Vault):
+	#burst out all rolled rewards at once when opened, and refresh arena vaults when a boss (such as the Dead King)
+	#is revived. Disabled by default.
+	modifyIronsSpellbooksVaults = false
+
+[spells]
+	#Multiplier for how long Aercloud Step platforms last.
+	# Default: 1.0
+	# Range: 0.1 ~ 10.0
+	aercloudDurationMultiplier = 1.0
+	#Base melee damage of summoned Fire Minions (scaled by fire spell power).
+	# Default: 6.0
+	# Range: 0.0 ~ 100.0
+	fireMinionDamage = 6.0
+	#Seconds a summoned Moa waits without a rider before vanishing.
+	# Default: 5
+	# Range: 1 ~ 600
+	moaDismountUnsummonSeconds = 5
+
+[accessories]
+	#Move the player's six Aether accessory categories to Curios. Restart the server or reopen the world after changing this setting.
+	useCuriosSlots = true
+	#Spell power bonus of the Zanite Focus Pendant when fully repaired (0.05 = +5%).
+	# Default: 0.05
+	# Range: 0.0 ~ 10.0
+	pendantMinSpellPower = 0.05
+	#Spell power bonus of the Zanite Focus Pendant just before it is fully worn.
+	# Default: 0.2
+	# Range: 0.0 ~ 10.0
+	pendantMaxSpellPower = 0.2
+
+#The spellcasters live in their shrines (the Valkyrie Sanctum and the Solar Altar) and appear when a shrine
+#generates, like Iron's Spells' casters. These weights can additionally let them spawn naturally in Aether biomes,
+#in the Aether's surface monster category (for reference, the Aether gives Whirlwinds 3, Blue Swets 6 and Aechor
+#Plants 7). 0 = shrines only. Applied when a world loads.
+[mobs]
+	#Natural spawn weight of the Valkyrie Sorceress on the Aether's surface. Since v1.6 they live in Valkyrie Sanctums, so this is 0 by default (it was 3).
+	# Default: 0
+	# Range: 0 ~ 100
+	valkyrieSorceressNaturalSpawnWeight = 0
+	#Natural spawn weight of the Solar Acolyte on the Aether's surface. Since v1.6 they live in Solar Altars, so this is 0 by default (it was 2).
+	# Default: 0
+	# Range: 0 ~ 100
+	solarAcolyteNaturalSpawnWeight = 0
